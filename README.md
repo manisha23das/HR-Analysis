@@ -13,21 +13,21 @@ What is the employee turnover rate.
 #### Dataset
 The dataset used for this analysis includes employee data with the following columns:
 
-Employee ID
-Full Name
-Job Title
-Department
-Business Unit
-Gender
-Ethnicity
-Age
-Hire Date
-Annual Salary
-Bonus %
-Country
-City
-Exit Date
-Latitude
+Employee ID,
+Full Name,
+Job Title,
+Department,
+Business Unit,
+Gender,
+Ethnicity,
+Age,
+Hire Date,
+Annual Salary,
+Bonus %,
+Country,
+City,
+Exit Date,
+Latitude,
 Longitude
 
 #### Conclusion
