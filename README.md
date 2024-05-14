@@ -4,10 +4,15 @@ This project aims to analyze HR data using Power BI to derive insights and answe
 
 #### Questions Explored
 How diverse is the workforce in terms of gender, ethnicity, and age?
+
 How about the geographic distribution of the workforce?
+
 What is the employee retention rate trend yearly?
+
 Which business unit and department paid the most and least bonuses annually?
+
 How about the pay equity based on gender, ethnicity, and age?
+
 What is the employee turnover rate.
 
 #### Dataset
